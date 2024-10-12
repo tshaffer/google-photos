@@ -5,3 +5,10 @@ persist-storage/
 persist-mediaitemcache/
 persist-albumcache/
 .DS_STORE
+config.js
+/config.js
+config.js/
+/config.js/
+REST/PhotoFrame/config.js
+
+
